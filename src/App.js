@@ -32,7 +32,7 @@ function App() {
         }
 
         else if (bmi>=18.5 && bmi<25){
-          setMessage('You are a Healthy weight')
+          setMessage('You have Healthy weight')
         }
 
         else if (bmi>=25 && bmi<30){
